@@ -8,7 +8,7 @@ katamuki.js または katamuki.min.jsをscriptタグでhead要素内に記述し
 
 ウェブサイトの読み込み時にアンチエイリアス処理が自動で行われます。
 
-    <script type="text/javascript" src="katamuki.js"></script>
+    <script async type="text/javascript" src="katamuki.js"></script>
 
 ## katamuki.min.jsについて
 ~~ソースコード圧縮に失敗していた為、廃止しました (2017年2月11日)~~
